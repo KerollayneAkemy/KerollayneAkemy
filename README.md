@@ -112,7 +112,7 @@ Virtual pet simulation focused on Object-Oriented Programming concepts.
 ## 📈 Career Path
 
 ```text
-2023  → PHP + MySQL (first fullstack project)
+2024  → PHP + MySQL (first fullstack project)
 2025  → Java + OOP (solid fundamentals)
 2025  → React + Node.js (modern web apps)
 2026  → React Native + Supabase (mobile + backend)
