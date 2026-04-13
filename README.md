@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=6366F1&size=30&center=true&vCenter=true&width=1000&lines=Kerollayne+Akemy;Full+Stack+Developer;Web+%7C+Mobile+%7C+Backend;Construindo+soluções+reais+com+código" />
 
 <br/>
 
