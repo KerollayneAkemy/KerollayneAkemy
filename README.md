@@ -6,9 +6,7 @@
 
 <p><strong>Full Stack Developer</strong></p>
 
-<p>
-  Web · Mobile · Backend
-</p>
+<p>Web · Mobile · Backend</p>
 
 <p>
   <a href="https://linkedin.com/in/kerollayne-akemy-gonçalves-pereira-27695b351">
@@ -28,12 +26,12 @@
 
 Desenvolvedora Full Stack com experiência prática no desenvolvimento de aplicações **web e mobile**, atuando desde a interface até a modelagem de dados e regras de negócio.
 
-Iniciei com **PHP puro**, evoluí para o ecossistema moderno com **React + TypeScript**, e atualmente desenvolvo aplicações mobile com **React Native**, integradas a backends escaláveis com **Supabase**.
+Iniciei com **PHP puro**, evoluí para o ecossistema moderno com **React + TypeScript**, e atualmente desenvolvo aplicações mobile com **React Native**, integradas a backends com **Supabase**.
 
-Tenho interesse em projetos que resolvem problemas reais, com foco em:
+Tenho interesse em construir soluções que resolvam problemas reais, com foco em:
 - Arquitetura bem definida
-- Experiência do usuário
 - Código limpo e escalável
+- Experiência do usuário
 
 ---
 
@@ -65,7 +63,10 @@ Tenho interesse em projetos que resolvem problemas reais, com foco em:
 ### 🔹 ShopSmart  
 App mobile para gestão de listas de compras com autenticação e banco de dados em produção.
 
-**Stack:** React Native · Expo · TypeScript · Supabase
+**Stack:** React Native · Expo · TypeScript · Supabase  
+
+📎 Repositório:  
+https://github.com/Rayck4dev/ShopSmart-App  
 
 **Destaques:**
 - Autenticação completa (login, cadastro e perfil)
@@ -74,19 +75,28 @@ App mobile para gestão de listas de compras com autenticação e banco de dados
 - PostgreSQL com Row Level Security (RLS)
 - Interface moderna com Tailwind (NativeWind)
 
-📎 https://github.com/KerollayneAkemy/shopsmart
+**Colaboração:**
+Projeto desenvolvido em equipe.
+
+**Minha contribuição:**
+- Desenvolvimento de funcionalidades da aplicação
+- Criação de componentes reutilizáveis
+- Integração com backend e banco de dados
+- Apoio na arquitetura do projeto
+
+> Projeto acadêmico em desenvolvimento — Fase 1/2 concluída.
 
 ---
 
 ### 🔹 SGA — Sistema de Gestão Acadêmica  
 Sistema web para gerenciamento de alunos, turmas e notas.
 
-**Stack:** React · TypeScript · Node.js
+**Stack:** React · TypeScript · Node.js  
 
 **Destaques:**
 - CRUD completo
 - Interface responsiva
-- Organização modular de componentes
+- Organização modular
 
 📎 https://github.com/KerollayneAkemy/SGA_REACT
 
@@ -95,25 +105,25 @@ Sistema web para gerenciamento de alunos, turmas e notas.
 ### 🔹 Café da Luz  
 E-commerce de cafés artesanais desenvolvido com PHP puro.
 
-**Stack:** PHP · MySQL · HTML/CSS
+**Stack:** PHP · MySQL · HTML/CSS  
 
 **Destaques:**
 - Projeto fullstack do zero
 - Sistema de produtos e pedidos
-- Primeiro projeto real em produção
+- Primeira aplicação completa em produção
 
 📎 https://github.com/KerollayneAkemy/Cafe-da-Luz
 
 ---
 
 ### 🔹 Tamagotchi  
-Jogo de bichinho virtual em Java com foco em orientação a objetos.
+Jogo de bichinho virtual com foco em orientação a objetos.
 
-**Stack:** Java · OOP
+**Stack:** Java · OOP  
 
 **Destaques:**
-- Aplicação de herança, encapsulamento e polimorfismo
-- Sistema de estados e eventos
+- Uso de herança, encapsulamento e polimorfismo
+- Sistema baseado em estados
 
 📎 https://github.com/KerollayneAkemy/tamagotchi
 
@@ -123,7 +133,7 @@ Jogo de bichinho virtual em Java com foco em orientação a objetos.
 
 ```text
 2024  → PHP + MySQL (primeiro e-commerce)
-2025  → Java + OOP (lógica e arquitetura)
-2025  → React + Node.js (web moderno)
+2025  → Java + OOP (lógica e orientação a objetos)
+2025  → React + Node.js (aplicações web modernas)
 2026  → React Native + Supabase (mobile + backend)
-→     Próximo passo: atuar profissionalmente como Full Stack
+→     Próximo passo: atuar como Desenvolvedora Full Stack
