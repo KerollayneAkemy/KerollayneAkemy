@@ -22,20 +22,20 @@
 
 ---
 
-## 👩‍💻 Sobre mim
+## 👩‍💻 About Me
 
-Desenvolvedora Full Stack com experiência no desenvolvimento de aplicações **web e mobile**, atuando de ponta a ponta — da interface à modelagem de dados e regras de negócio.
+Full Stack Developer with hands-on experience building **web and mobile applications**, working across the entire stack — from UI development to backend logic and database design.
 
-Minha evolução começou com **PHP puro**, avançou para o ecossistema moderno com **React + TypeScript**, e atualmente desenvolvo aplicações mobile com **React Native**, integradas a backends utilizando **Supabase**.
+My journey started with **PHP**, evolved into modern web development using **React + TypeScript**, and currently focuses on **mobile applications with React Native**, integrated with backend services using **Supabase**.
 
-Tenho foco em:
-- Arquitetura bem definida
-- Código limpo e escalável
-- Experiência do usuário
+I’m focused on building solutions that are:
+- Scalable and maintainable
+- Cleanly structured (Clean Code principles)
+- User-centered and efficient
 
 ---
 
-## 🚀 Stack
+## 🚀 Tech Stack
 
 ### Frontend & Mobile
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -44,7 +44,7 @@ Tenho foco em:
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### Backend & Dados
+### Backend & Data
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -52,34 +52,38 @@ Tenho foco em:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
 ---
 
-## 📌 Projetos em destaque
+## 📌 Featured Projects
 
 ### 🔹 ShopSmart  
-Aplicação mobile para gestão de listas de compras com autenticação e banco de dados em produção.
+Mobile application for managing shopping lists with authentication and real-time database.
 
 **Stack:** React Native · Expo · TypeScript · Supabase  
 
 📎 https://github.com/Rayck4dev/ShopSmart-App  
 
-**Principais pontos:**
-- Sistema completo de autenticação
-- Controle de produtos por quantidade e peso
-- Cálculo automático de gastos
-- PostgreSQL com Row Level Security (RLS)
-- Interface moderna com Tailwind (NativeWind)
+**Highlights:**
+- Full authentication system (login, signup, profile)
+- Product management with quantity and weight
+- Automatic expense calculation
+- PostgreSQL with Row Level Security (RLS)
+- Modern UI using Tailwind (NativeWind)
 
-**Minha atuação:**
-- Desenvolvimento de funcionalidades
-- Criação de componentes reutilizáveis
-- Integração com backend e banco
-- Apoio na arquitetura
+**My role:**
+- Feature development
+- Reusable component creation
+- Backend & database integration
+- Architecture support
 
 ---
 
-### 🔹 SGA — Sistema de Gestão Acadêmica  
-Sistema web para gerenciamento de alunos, turmas e notas.
+### 🔹 SGA — Academic Management System  
+Web system for managing students, classes and grades.
 
 **Stack:** React · TypeScript · Node.js  
 
@@ -88,7 +92,7 @@ Sistema web para gerenciamento de alunos, turmas e notas.
 ---
 
 ### 🔹 Café da Luz  
-E-commerce de cafés artesanais desenvolvido do zero.
+Fullstack e-commerce for artisan coffee products built from scratch.
 
 **Stack:** PHP · MySQL · HTML/CSS  
 
@@ -97,7 +101,7 @@ E-commerce de cafés artesanais desenvolvido do zero.
 ---
 
 ### 🔹 Tamagotchi  
-Simulação de bichinho virtual com foco em orientação a objetos.
+Virtual pet simulation focused on Object-Oriented Programming concepts.
 
 **Stack:** Java  
 
@@ -105,11 +109,11 @@ Simulação de bichinho virtual com foco em orientação a objetos.
 
 ---
 
-## 📈 Trajetória
+## 📈 Career Path
 
 ```text
-2023  → PHP + MySQL (primeiro e-commerce)
-2025  → Java + OOP (fundamentos sólidos)
-2025  → React + Node.js (aplicações modernas)
+2023  → PHP + MySQL (first fullstack project)
+2025  → Java + OOP (solid fundamentals)
+2025  → React + Node.js (modern web apps)
 2026  → React Native + Supabase (mobile + backend)
-→     Foco atual: atuação profissional como Full Stack
+→     Current focus: Professional Full Stack Developer role
