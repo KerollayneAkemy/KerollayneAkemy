@@ -102,9 +102,9 @@ Jogo de bichinho virtual em Java. Projeto focado em orientação a objetos: hera
 
 ```text
 2023  Ensino médio   →  PHP puro, primeiro e-commerce real (Cafe-da-Luz)
-2024  Game dev       →  Java + OOP com Tamagotchi
-2024  Web moderno    →  React + TypeScript + Node.js (SGA)
-2025  Mobile         →  React Native + Expo + Supabase (ShopSmart)
+2025  Game dev       →  Java + OOP com Tamagotchi
+2025  Web moderno    →  React + TypeScript + Node.js (SGA)
+2026  Mobile         →  React Native + Expo + Supabase (ShopSmart)
 →     Próximo passo  →  Oportunidade como dev Full Stack
 ```
 
