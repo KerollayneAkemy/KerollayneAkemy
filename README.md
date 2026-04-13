@@ -1,3 +1,5 @@
+<img src="https://readme-typing-svg.herokuapp.com/?color=6366F1&size=28&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;React+%7C+Node+%7C+Java;Building+Real+World+Projects;Always+Learning+New+Technologies" />
+
 <div align="center">
 
 <img src="https://github.com/KerollayneAkemy.png" width="110" style="border-radius:50%" />
