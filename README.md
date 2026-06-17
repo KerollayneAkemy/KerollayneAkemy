@@ -93,7 +93,7 @@ Aplicação mobile para gestão de listas de compras com autenticação e banco 
 
 ---
 
-### 📚 StudyAsync - Gerenciador de estudos 
+### 📚 StudySync - Gerenciador de estudos 
 Um Sistema para controle de horas de estudos.
 
 📎 https://github.com/LuanBertozzi7/gerenciador-estudos
