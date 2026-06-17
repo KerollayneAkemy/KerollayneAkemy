@@ -97,6 +97,7 @@ Aplicação mobile para gestão de listas de compras com autenticação e banco 
 Um Sistema para controle de horas de estudos.
 
 📎 https://github.com/LuanBertozzi7/gerenciador-estudos
+📎 https://studysync.online/
 
 ---
 
